@@ -1,0 +1,2 @@
+# KyleCoin
+KyleCoin is KyleCoin.
