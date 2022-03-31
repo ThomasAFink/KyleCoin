@@ -26,4 +26,6 @@
 
 ## KyleCoin uses crypto-js for hash functions: https://github.com/afitzek/crypto-js
 
+## KyleCoin uses JavaScript SHA-256 demo from: https://github.com/geraintluff/sha256
+
 
