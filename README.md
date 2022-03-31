@@ -1,4 +1,4 @@
-#KyleCoin JavaScript is the future of Blockchain Technology
+# KyleCoin JavaScript is the future of Blockchain Technology
 
 ## Send one KyleCoin get two back.
 
