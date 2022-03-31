@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="crypto-js-develop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/crypto-js-develop.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
