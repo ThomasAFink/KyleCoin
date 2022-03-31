@@ -1,4 +1,5 @@
-//var SHA256 = require("crypto-js-develop/src/sha256.js");
+// var SHA256 = require("crypto-js-develop/src/sha256.js");
+// JavaScript SHA-256 demo https://github.com/geraintluff/sha256
 var SHA256 = function sha256(ascii) {
 	function rightRotate(value, amount) {
 		return (value>>>amount) | (value<<(32 - amount));
